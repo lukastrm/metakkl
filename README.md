@@ -1,7 +1,7 @@
 # MetaKKL
 
 This repository contains the code for the paper "Adaptive Meta-Learning-Based KKL Observer Design for Nonlinear
-Systems". The implementations in this repository are preliminary and are subject to change. 
+Systems".
 
 ## References
 
